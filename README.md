@@ -1,0 +1,7 @@
+- style
+  - rubocop
+  - foodcritic
+- unit
+  - chefspec (rspec)
+- integration
+  - kitchen
